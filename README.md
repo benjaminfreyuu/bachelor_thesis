@@ -8,3 +8,5 @@ The workflow included FitMultiCell, Python and batch scripts and took advantage 
 Cluster internal submission scripts are not included in this repository, only analysis scripts for the .feather files.
 
 Additionally, key results datasets as well as the thesis are included.
+
+Based on this approach: https://fitmulticell.gitlab.io/
