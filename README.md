@@ -9,9 +9,11 @@ Cluster internal submission scripts are not included in this repository, only an
 
 Additionally, key results datasets as well as the thesis are included.
 
-Based on this approach: https://fitmulticell.gitlab.io/
+### Key method: 
 
-Pre-print of results:
+https://fitmulticell.gitlab.io/
+
+### Pre-print of results:
 
 Inferring cell motility in complex environments with incomplete tracking data
 Nils Bundgaard, Christoph Harmel, Andrea Imle, Samy Sid Ahmed, Benjamin Frey, Jörn Starruß, Oliver T. Fackler, Frederik Graw
