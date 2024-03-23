@@ -1,4 +1,6 @@
-## Bachelor thesis analysis scripts and thesis
+## Inferring cell dynamics in multi-cellular systems with incomplete data
+
+Bachelor thesis Benjamin Frey
 
 This thesis was conducted using the FitMultiCell package using Approximate Bayesian Computation on a HPC cluster from Heidelberg University.
 The workflow included FitMultiCell, Python and batch scripts and took advantage of the slurm manager on the cluster.
